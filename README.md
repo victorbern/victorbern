@@ -1,5 +1,15 @@
 <!-- ### Olá, eu me chamo Victor!  -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+me+chamo+Victor+Bernardo!;Seja+bem+vindo!)](https://git.io/typing-svg)
+### Sobre mim
+🖥️ Desenvolvedor Back-End
+
+📚 Técnologo em Análise e Desenvolvimento de Sistemas
+
+🥰 Amo Java e JavaScript
+
+### Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorbern&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **victorbern/victorbern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
