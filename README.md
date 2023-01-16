@@ -1,5 +1,5 @@
-### Olá, eu me chamo Victor! 👋
-
+<!-- ### Olá, eu me chamo Victor!  -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+me+chamo+Victor+Bernardo!;Seja+bem+vindo!)](https://git.io/typing-svg)
 <!--
 **victorbern/victorbern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
